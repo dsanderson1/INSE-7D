@@ -1,0 +1,105 @@
+.login {
+	margin-top: 100px;
+}
+.set-logo {
+    background:#fff;
+    color:#ddd;
+    border-radius:500%;
+    padding:11px;
+    font-size:108px;
+    border: solid #ddd 14px;
+}
+.logo {
+	margin-top: 2%;
+	margin-bottom: 5%;
+	border-color: #000;
+	border: solid;
+}
+
+.last-row {
+    margin-bottom:0px;
+}
+
+.checklabel {
+    font-weight:100;
+}
+
+body{
+	background-color: #771C73;
+}
+header{
+	background-color: #7A7A7A
+}
+
+p{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 150%;
+}
+table{
+	width:100%;
+	
+}
+table, td {
+	text-align: center;
+	float: center;
+    border: 1px solid black;
+	background: white;
+	padding:2%;
+}
+.sidebar1 {
+	float: left;
+	width: 20%;
+	margin-top:0.2%;
+	padding-bottom: 10px;
+	background-color:#CCC
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+li {
+    float: right;
+}
+
+li a {
+	display: block;
+	color: #424444;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+	background-color: #7A7A7A;
+}
+
+.searchbar {
+	width: 78%; 
+	margin-right: 1%;
+	margin-top: 1%; 
+	text-align: center; 
+	min-height: 30px; 
+	float:right; 
+	background-color:#A7A7A7;
+}
+.post {
+	width: 78%;
+	margin-right: 1%;
+	margin-top: 1%;
+	min-height: 30px;
+	float: right;
+	background-color: #A7A7A7;
+	padding: 1%;
+}
+.postimage {
+	max-height: 20%; 
+	max-width: 20%; 
+	float: left; 
+	border-radius: 5px;	
+	margin-right: 1%;
+}
