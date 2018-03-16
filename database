@@ -31,7 +31,7 @@ address1 VARCHAR(50) NOT NULL,
 address2 VARCHAR(50),
 city VARCHAR(30) NOT NULL,
 postcode VARCHAR(8) NOT NULL,
-noOfRooms int NOT NULL,
+noOfBedrooms int NOT NULL,
 price DECIMAL(11,2) NOT NULL,
 dateListed DATE,
 image VARCHAR(100),
@@ -49,7 +49,8 @@ description VARCHAR(200),
 dateAndTime DATETIME, 
 landlordID INT NOT NULL,
 userID INT NOT NULL,
-
+FOREIGN KEY (landlordID) REFERENCES LANDLORD(landlordID),
+FOREIGN KEY (userID) REFERENCES USER(userID) );
 
 
 
