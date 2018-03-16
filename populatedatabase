@@ -1,1 +1,8 @@
-
+INSERT INTO USER VALUES(1, "Roswell", "Dunstan", "1 London Road", "Long street", "London", "LO12NL", "rdunstan", "password", "rdunstan@gmail.com", "07585856958");
+INSERT INTO USER VALUES(2, "Raymund", "Kristy", "1 Brighton Road", "Short street", "Brighton", "BN12NL", "rkristy", "password", "rkristy@gmail.com", "07587856958");
+INSERT INTO USER VALUES(3, "Devon", "Winona", "1 Newcastle Road", "New street", "Newcastle", "NE232AB", "dwinona", "password", "dwinona@gmail.com", "07585856958");
+INSERT INTO USER VALUES(4, "Roswell", "Dunstan", "1 London Road", "Long street", "London", "LO12NL", "rdunstan", "password", "rdunstan@gmail.com", "07585856958");
+INSERT INTO USER VALUES(5, "Jeb", "Lacey", "1 Port Road", "Port street", "Portsmouth", "PO112L", "jlacey", "password", "jlacey@gmail.com", "07585856958");
+INSERT INTO USER VALUES(6, "Alvina", "Darcy", "1 Cram Road", "Cram street", "Cramlington", "NE2222B", "adarcy", "password", "adarcy@gmail.com", "07585856958");
+INSERT INTO USER VALUES(7, "Jeb", "Lacey", "1 Port Road", "Port street", "Portsmouth", "PO112L", "jlacey", "password", "jlacey@gmail.com", "07585856958");
+INSERT INTO USER VALUES(8, "Jayne", "Cayden", "1 Lettuce Road", "Let street", "Lettuceland", "L3TUC3", "jcayden", "password", "jcayden@gmail.com", "07585856958");
