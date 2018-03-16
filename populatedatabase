@@ -20,4 +20,4 @@ INSERT INTO ROOMS VALUES (1, "Big bedroom", "4SR_BB.jpg");
 INSERT INTO ROOMS VALUES (2, "Big bedroom", "4FR_BB.jpg");
 INSERT INTO ROOMS VALUES (2, "Smaller bedroom", "4FR_SB.jpg");
 
-INSERT INTO APPOINTMENT (1, "Talk about property", "Students want to discuss the property", 2018-03-20 15:00:00, 1, 2);
+INSERT INTO APPOINTMENT (1, "Talk about property", "Students want to discuss the property", "2018-03-20 15:00:00", 1, 2);
