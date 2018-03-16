@@ -53,31 +53,6 @@ table, td {
 	padding-bottom: 10px;
 	background-color:#CCC
 }
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-
-}
-
-li {
-    float: right;
-}
-
-li a {
-	display: block;
-	color: #424444;
-	text-align: center;
-	padding: 14px 16px;
-	text-decoration: none;
-}
-
-/* Change the link color to #111 (black) on hover */
-li a:hover {
-	background-color: #7A7A7A;
-}
-
 .searchbar {
 	width: 78%; 
 	margin-right: 1%;
