@@ -10,8 +10,8 @@ INSERT INTO USER VALUES(8, "Jayne", "Cayden", "1 Lettuce Road", "Let street", "L
 INSERT INTO LANDLORD VALUES(1, 8, "Estate Ltd");
 INSERT INTO LANDLORD VALUES(2, 7, "Nice flats Ltd");
 
-INSERT INTO PROPERTIES VALUES(1, 2, "4 Bedroom property for rent", "A 4 Bedroom property for student house shares", "House", "4 Southsea Road", "Milton", "Portsmouth", "PO12BL", 4, 400.00, 2018-06-24, "4SR.jpg");
-INSERT INTO PROPERTIES VALUES(2, 1, "2 Bedroom flat for rent", "A 2 Bedroom flat, ideal for students", "House", "2 Fratton Road", "The Dales", "Portsmouth", "PO12EY", 4, 350.00, 2018-06-24, "2FR.jpg");
+INSERT INTO PROPERTIES VALUES(1, 2, "4 Bedroom property for rent", "A 4 Bedroom property for student house shares", "House", "4 Southsea Road", "Milton", "Portsmouth", "PO12BL", 4, 400.00, "2018-06-24", "4SR.jpg");
+INSERT INTO PROPERTIES VALUES(2, 1, "2 Bedroom flat for rent", "A 2 Bedroom flat, ideal for students", "House", "2 Fratton Road", "The Dales", "Portsmouth", "PO12EY", 4, 350.00, "2018-06-24", "2FR.jpg");
 
 INSERT INTO ROOMS VALUES (1, "Master bedroom", "4SR_MB.jpg");
 INSERT INTO ROOMS VALUES (1, "Smaller bedroom", "4SR_SB.jpg");
@@ -20,4 +20,4 @@ INSERT INTO ROOMS VALUES (1, "Big bedroom", "4SR_BB.jpg");
 INSERT INTO ROOMS VALUES (2, "Big bedroom", "4FR_BB.jpg");
 INSERT INTO ROOMS VALUES (2, "Smaller bedroom", "4FR_SB.jpg");
 
-INSERT INTO APPOINTMENT (1, "Talk about property", "Students want to discuss the property", "2018-03-20 15:00:00", 1, 2);
+INSERT INTO APPOINTMENT VALUES(1, "Talk about property", "Students want to discuss the property", "2018-03-20 15:00:00", 1, 2);
